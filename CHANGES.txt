@@ -1,0 +1,33 @@
+OSSN - OPEN SOURCE SOCIAL NETWORK v10.2
+- [B] Critical PHP Code Injection / RCE in Dynamic Cache Settings #2644
+- [E] Check zip slip is a path traversal in com and theme upload #2642
+
+OSSN - OPEN SOURCE SOCIAL NETWORK v10.1
+- [E] Redirect should exit on any case #2636
+- [B] Notification close should find elements inside itself #2634
+- [E] Resize images should retain the original format #2632
+- [E] Updates the installation db procedure #2631
+- [B] List user shows Create Campaign button instead of add user #2630
+- [B] Groups cover have some issue not showing full width + repotion doesn't appear on new cover #2629 Open
+- [E] OssnGroups:: searchGroups #2628
+- [B] Buttons moves down on wall #2625
+- [E] Make view all comments js code from out of init and add other callback so it can be easily unset #2627 Open
+- [E] Update output/users_list take from goblue output #2626
+- [E] Add callback for object save()/update #2637
+- [B] Allow only scale image on top and bottom #2638
+
+OSSN - OPEN SOURCE SOCIAL NETWORK v10.0
+- [B] Warnings on Themes->GoBlue->Reset #2611
+- [B] themes/goblue/plugins/default/css/exception.css direct css failed to fetch #2612
+- [E] Add callback before wall activity output each post #2623
+- [B] Add dim check in ossn_image_resize #2622
+- [E] Add callback for ads view and click event #2621
+- [E] Update likes counter even if count=1 and only current user=liked #2620
+- [E] Restyle the total likes UI and show the total comments too #2618
+- [E] Smilies picker not working with new wall #2617
+- [E] Remove ugly 10px border from message box/modal #2616
+- [E] View all comments button makes other buttons no space #2615
+- [E] Add callback for ads view and click event #2621
+- [E] Ads default approved status #2624
+- [B] Seems email type was not changed in 7.x upgrade for some sites #2614
+- [B] Extra space showing in comment edit modal #2619
